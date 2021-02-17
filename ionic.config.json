@@ -1,0 +1,8 @@
+{
+  "name": "To-do",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "00a59088"
+}
